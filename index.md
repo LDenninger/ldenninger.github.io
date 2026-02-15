@@ -1,5 +1,6 @@
 ---
 layout: page
+description: "First-year PhD student at TUM (Computer Vision)."
 ---
 
 # About Me
