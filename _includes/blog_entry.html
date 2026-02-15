@@ -1,0 +1,15 @@
+<a href="{{ include.url | relative_url }}" class="blog-card-link">
+<div class="blog-card">
+{% if include.image %}
+<div class="blog-card-image">
+<img src="{{ include.image | relative_url }}" alt="{{ include.title }}">
+</div>
+{% endif %}
+<div class="blog-card-content">
+<h3 class="blog-card-title">{{ include.title }}</h3>
+{% if include.tldr %}
+<p class="blog-card-tldr">{{ include.tldr }}</p>
+{% endif %}
+</div>
+</div>
+</a>
