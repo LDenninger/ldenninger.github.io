@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Luis Denninger
+title: Luis Denninger Personal Webpage
 description: "First-year PhD student at TUM (Computer Vision)."
 ---
 
