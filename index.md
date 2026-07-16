@@ -27,7 +27,7 @@ I am always open for discussions and collaborations. I have open guided research
 ---
 
 ## News and Updates
-
+- **June 2026:** My former Roboracer team *LAMARRacing* showed a great performance at this year's world championship achieving first place in the time trials and winning the *Knapp Performance Award*.
 - **Dec 2025:** I have started my PhD at the Technical University of Munich under the guidance of [Prof. Daniel Cremers](https://cvg.cit.tum.de/members/cremers)
 - **Nov 2025:** I have succesfully handed in and defended my Master's thesis! 
 - **Oct 2025:** Our work *CamC2V: Context-aware Controllable Video Generation* was accepted to the *International Conference on 3D Vision 2026*!
